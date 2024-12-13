@@ -1,0 +1,13 @@
+.rodape {
+    background-color: #59a5d8;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    span{
+        font-size: 1rem;
+        color: white;
+        font-style: italic;
+    }
+}
